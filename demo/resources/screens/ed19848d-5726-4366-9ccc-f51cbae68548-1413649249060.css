@@ -1,0 +1,95 @@
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 {
+  background-color: transparent;
+  background-image: none;
+  min-width: 320px;
+  min-height: 470px;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  width: 320px;
+  min-width: 320px;
+  min-height: 470px;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 #s-Image_1 {
+  position: absolute;
+  top: 61px;
+  left: 28px;
+  width: 272px;
+  height: 257px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 #s-Label_1 {
+  position: absolute;
+  top: 353px;
+  left: 27px;
+  width: 265px;
+  height: 72px;
+  background-color: transparent;
+  background-image: none;
+  opacity: 0.97;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 26pt;
+  line-height: 26pt;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 #s-Label_1 .valign {
+  vertical-align: middle;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 #s-Rich_text_1 {
+  position: absolute;
+  top: 437px;
+  left: 0px;
+  width: 320px;
+  height: 33px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 13pt;
+  font-family: Arial,Arial;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 #s-Rich_text_1 .valign {
+  vertical-align: top;
+  text-align: center;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 #s-Rich_text_1 span {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 13pt;
+  font-style: italic;
+  font-weight: 400;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 #s-Rich_text_1 span#rtr-s-Rich_text_1_0 {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 13pt;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 0px;
+}
+.ui-page {
+  overflow-x: hidden;
+}
+#s-ed19848d-5726-4366-9ccc-f51cbae68548 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
